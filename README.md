@@ -1,9 +1,12 @@
-# [hyper](https://hyper.rs)
+# [rama-hyper](https://ramaproxy.org)
 
-[![crates.io](https://img.shields.io/crates/v/hyper.svg)](https://crates.io/crates/hyper)
-[![Released API docs](https://docs.rs/hyper/badge.svg)](https://docs.rs/hyper)
+Fork of [hyper](https://hyper.rs)
+in function of [rama](https://ramaproxy.org).
+
+[![crates.io](https://img.shields.io/crates/v/rama-hyper.svg)](https://crates.io/crates/rama-hyper)
+[![Released API docs](https://docs.rs/rama-hyper/badge.svg)](https://docs.rs/rama-hyper)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
+[![CI](https://github.com/plabayo/rama-hyper/workflows/CI/badge.svg)](https://github.com/plabayo/rama-hyper/actions?query=workflow%3ACI)
 [![Discord chat][discord-badge]][discord-url]
 
 A protective and efficient HTTP library for all.
@@ -40,5 +43,5 @@ If you prefer chatting, there is an active community in the [Discord server][dis
 
 hyper is provided under the MIT license. See [LICENSE](LICENSE).
 
-[discord-badge]: https://img.shields.io/discord/500028886025895936.svg?logo=discord
-[discord-url]: https://discord.gg/kkwpueZ
+[discord-badge]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.gg/29EetaSYCD

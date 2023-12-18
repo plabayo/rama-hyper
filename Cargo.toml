@@ -1,13 +1,16 @@
 [package]
-name = "hyper"
-version = "1.1.0"
-description = "A fast and correct HTTP library."
+name = "rama-hyper"
+version = "0.1001000.0"
+description = "A fast and correct HTTP library for Rama"
 readme = "README.md"
-homepage = "https://hyper.rs"
-documentation = "https://docs.rs/hyper"
-repository = "https://github.com/hyperium/hyper"
+homepage = "https://ramaproxy.org"
+documentation = "https://docs.rs/rama-hyper"
+repository = "https://github.com/plabayo/rama-hyper"
 license = "MIT"
-authors = ["Sean McArthur <sean@seanmonstar.com>"]
+authors = [
+  "Sean McArthur <sean@seanmonstar.com>",
+  "Glen De Cauwsemaecker <glen@plabayo.tech>",
+]
 keywords = ["http", "hyper", "hyperium"]
 categories = ["network-programming", "web-programming::http-client", "web-programming::http-server"]
 edition = "2018"
